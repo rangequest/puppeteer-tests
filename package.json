@@ -6,6 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Range Quest",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangequest/puppeteer-tests.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "range-quest"
+  ],
+  "bugs": {
+    "url": "https://github.com/rangequest/puppeteer-tests/issues"
+  },
+  "homepage": "https://github.com/rangequest/puppeteer-tests#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
 }
